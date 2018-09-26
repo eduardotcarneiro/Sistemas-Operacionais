@@ -11,13 +11,13 @@
  *  ---------------------
  *  >>>>> Gabriel Villares Silveira         - 114089936
  *  >>>>> Hugo Kenupp Cunha Guimarães       - 109062709
- *  >>>>> Eduardo Carneiro                  - <dre>
+ *  >>>>> Eduardo Teixeira Carneiro         - 113149505
  * 
  *  -------------------------------------
  *  <==> WHAT THIS PROGRAM DOES <==>
  *  -------------------------------------
  * 
- *  This program simulates the process administraion infrastructure of an operational system. A SHODDY OS. BUT STILL, AN OS.
+ *  This program simulates the process administration infrastructure of an operational system. A SHODDY OS. BUT STILL, AN OS.
  * 
  *  One function - maybe a thread? - constantly creates new processes, at random intervals, with random parameters, and sends them to the
  *      scheduler to handle, up to a maximum, pre-defined number, because our program needs an endpoint, after all.
